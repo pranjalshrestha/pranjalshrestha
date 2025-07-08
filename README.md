@@ -18,9 +18,9 @@ I'm Pranjal, a driven student passionate about the intersection of **data, finan
 ## 🛠️ Skills & Tools
 
 **Languages**: SQL, R, Python, JavaScript (basic), HTML/CSS  
-**Analytics**: Power BI, Tableau, `rstanarm`, ggplot2, dplyr, tidyverse, Excel
-**Modeling**: Bayesian regression, logistic models, Naive Bayes  
-**Finance**: Budgeting, financial reporting, Excel modeling  
+**Analytics**: Power BI, Tableau, RShiny, Excel
+**ERP System & Financial Planning**: Oracle PBCS, NetSuite, Microsoft Azure
+**Finance**: Budgeting/Forecasting, Financial Reporting, Variance Analysis, Scenario Analysis, DCF Analysis
 **Tools**: Git, VSCode, RStudio, LaTeX, Notion
 
 
