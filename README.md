@@ -11,7 +11,7 @@ I'm Pranjal, a driven student passionate about the intersection of **data, finan
 📍 Based in Kentucky | Open to remote/hybrid roles
 
 🌱 **Learning**: FP&A strategy, financial modeling, and advanced R/Python  
-💡 **Fun Fact**: Traveled to 11 states across the Northeast, Midwest, and Southeast in January 2025 — and won Best Data Analysis at DataFest 2025. 
+💡 **Fun Fact**: Traveled to 11 states across the Northeast, Midwest, and Southeast in January 2025 — and won Best Data Analysis at DataFest 2025.  
 🎯 **Goal**: Seeking 2026 full-time new grad opportunities in **FP&A, strategy, or data analytics**
 
 
