@@ -4,7 +4,6 @@
 
 I'm Pranjal, a driven student passionate about the intersection of **data, finance, and impact**. I enjoy using data to tell stories, uncover insights, and guide strategic decisions. Whether it's running regression models in R, visualizing trends in Python, or diving deep into real-world problems through internships, I'm always looking to grow and make a difference.
 
----
 
 ## 🚀 About Me
 
@@ -15,7 +14,6 @@ I'm Pranjal, a driven student passionate about the intersection of **data, finan
 💡 **Fun Fact**: Traveled to 11 states across the Northeast, Midwest, and Southeast in January 2025 — and won Best Data Analysis at DataFest 2025. 
 🎯 **Goal**: Seeking 2026 full-time new grad opportunities in **FP&A, strategy, or data analytics**
 
----
 
 ## 🛠️ Skills & Tools
 
@@ -25,7 +23,6 @@ I'm Pranjal, a driven student passionate about the intersection of **data, finan
 **Finance**: Budgeting, financial reporting, Excel modeling  
 **Tools**: Git, VSCode, RStudio, LaTeX, Notion
 
----
 
 ## 📫 Reach Out
 
