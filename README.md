@@ -26,8 +26,8 @@ I'm Pranjal, a driven student passionate about the intersection of **data, finan
 
 ## 📫 Reach Out
 
-📧 Email: [pranjalshrestha@centre.edu](mailto:pranjalshrestha@centre.edu)  
-🔗 LinkedIn: [linkedin.com/in/pranjal-shrestha](https://linkedin.com/in/pranjal-shrestha)  
+📧 Email: [pshrestha.work@gmail.com](mailto:pshrestha.work@gmail.com)  
+🔗 LinkedIn: [linkedin.com/in/pranjalshrestha](https://linkedin.com/in/pranjalshrestha)  
 💻 GitHub: [@pranjalshrestha](https://github.com/pranjalshrestha)
 
 ---
