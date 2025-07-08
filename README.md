@@ -7,8 +7,8 @@ I'm Pranjal, a driven student passionate about the intersection of **data, finan
 
 ## 🚀 About Me
 
-🎓 **Education**: Centre College — B.S. in Data Science & Finance (Expected 2026)  
-📍 Based in Kentucky | Open to remote/hybrid roles
+🎓 **Education**: Centre College — B.S. in Data Science & Financial Economics (Expected 2026)  
+📍 Based in Kentucky | Open to remote/hybrid roles and relocation
 
 🌱 **Learning**: FP&A strategy, financial modeling, and advanced R/Python  
 💡 **Fun Fact**: Traveled to 11 states across the Northeast, Midwest, and Southeast in January 2025 — and won Best Data Analysis at DataFest 2025.  
