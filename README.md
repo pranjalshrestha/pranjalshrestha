@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Pranjal Shrestha
 
-📊 Aspiring Financial Analyst | Data Enthusiast | Lifelong Learner
+📊 Aspiring Analyst | Data Enthusiast | Lifelong Learner
 
 I'm Pranjal, a driven student passionate about the intersection of **data, finance, and impact**. I enjoy using data to tell stories, uncover insights, and guide strategic decisions. Whether it's running regression models in R, visualizing trends in Python, or diving deep into real-world problems through internships, I'm always looking to grow and make a difference.
 
