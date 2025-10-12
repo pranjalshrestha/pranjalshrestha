@@ -18,10 +18,10 @@ I'm Pranjal, a driven student passionate about the intersection of **data, finan
 ## 🛠️ Skills & Tools
 
 **Programming**: SQL, R, Python, C, JavaScript (basic), HTML/CSS  
-**Analytics**: Power BI, Tableau, R Shiny,  Excel (VBA, Macros, Pivot Tables)  
-**ERP System & Financial Planning**: Oracle PBCS, NetSuite, Microsoft Azure  
+**Analytics**: Power BI, Tableau, R Shiny,  Excel (VBA, Macros, Pivot Tables)    
 **Tools & Platforms**: Git, VS Code, RStudio, LaTeX, Notion, JIRA, Jupyter  
 **Statistical Analysis**: Time-Series Forecasting, Regression Modeling, A/B Testing, Bayesian Statistics, Predictive Modeling  
+**ERP System & Financial Planning**: Oracle PBCS, NetSuite, Microsoft Azure  
 **Finance**: Budgeting/Forecasting, Financial Reporting, Variance Analysis, Scenario Analysis, DCF Analysis  
 
 
